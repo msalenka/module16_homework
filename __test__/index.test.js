@@ -6,7 +6,11 @@ describe("test getProcents", () => {
     expect(result).toBe(40);
   }),
     it("50 procents of 200 equals 100", () => {
-    const result = getPercents(50, 200);
-    expect(result).toBe(100);
+      const result = getPercents(50, 200);
+      expect(result).toBe(100);
     });
+  it("50 procents of 200 equals 80", () => {
+    const result = getPercents(50, 200);
+    expect(result).toBe(80);
+  });
 });
