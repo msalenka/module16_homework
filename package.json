@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/msalenka/module16_homework-/issues"
+    "url": "https://github.com/msalenka/module16_homework/issues"
   },
-  "homepage": "https://github.com/msalenka/module16_homework-#readme",
+  "homepage": "https://github.com/msalenka/module16_homework#readme",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
